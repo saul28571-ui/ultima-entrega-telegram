@@ -1,0 +1,5 @@
+Kenney Racing Pack — vehículos 2D cenitales incluidos en Última Entrega.
+Fuente: https://kenney.nl/assets/racing-pack
+Licencia declarada en la página de Kenney: Creative Commons CC0.
+
+Archivos utilizados: car_yellow.png, car_red.png, car_blue.png, car_green.png y motorcycle_red.png.
